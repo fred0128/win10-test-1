@@ -1,0 +1,6 @@
+.svg-path-top {
+    width: 32px;
+    height: 32px;
+    background-color: rebeccapurple;
+    clip-path: path("M 0 0 L 32 0 L 32 26 L 22 26 L 16 32 L 11 26 L 0 26 L 0 24 L 12 24 L 16 29 L 21 24 L 30 24 L 30 2 L 0 2 L 0 24 L 2 24 L 2 2 L 0 2 Z Z");
+}
